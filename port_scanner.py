@@ -11,7 +11,7 @@ ETHICAL USE ONLY: scan only hosts you own or have permission to scan:
     - comp90095.cis.unimelb.edu.au
     - scanme.nmap.org
 
-GitHub repository: https://github.com/<enrichson>/<COMP90095_2026_Assessment_3>
+GitHub repository: https://github.com/Enrichson/COMP90095_Port_Scanner.git
 """
 
 import socket
